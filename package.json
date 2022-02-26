@@ -11,8 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
     "expres": "^0.0.5",
     "express": "^4.17.3",
+    "mongoose": "^6.2.3",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-plugin-react": "^7.29.2"
   }
 }
